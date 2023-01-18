@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DisaSoni
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning New skills in developing.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email Disasoni09@gmail.com
 
 <!---
