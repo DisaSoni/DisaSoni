@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning New skills in developing.
 - 📫 How to reach me via email Disasoni09@gmail.com
 
+
+<h1> Connect with me: </h1> 
 <!---
 DisaSoni/DisaSoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
