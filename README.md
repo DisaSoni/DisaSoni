@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DisaSoni
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning New skills in developing.
-- 📫 How to reach me via email Disasoni09@gmail.com
+- 🌱 I’m currently learning new skills in development.
+- 📫 How to reach me via email Disasoni9@gmail.com
 
 
 <h2> Connect with me: </h2> <a href ="https://www.linkedin.com/in/disasoni/">Linkedin<a>
