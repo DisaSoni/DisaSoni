@@ -6,9 +6,6 @@
 
 Hello! 👋 I'm DISA SONI, a passionate Junior Software Engineer with a keen interest in crafting clean and efficient code. I enjoy working on projects that challenge me and allow me to continually learn and grow in the ever-evolving world of technology.
 
-### 📈 GitHub Stats
-
-![DISA SONI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
 ### 🛠️ Skills
 
@@ -35,8 +32,6 @@ Hello! 👋 I'm DISA SONI, a passionate Junior Software Engineer with a keen int
   - [![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)](https://www.adobe.com/)
   - [![MS Office](https://img.shields.io/badge/MS_Office-%23D83B01.svg?style=flat-square&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
 
-- **Tools:**
-  - [List your development tools]
 
 ### 🤝 Connect with Me
 
